@@ -22,4 +22,4 @@ git commit -m 'deploy'
 # git push -f git@github.com:<USERNAME>/<USERNAME>.github.io.git main
 
 # if you are deploying to https://<USERNAME>.github.io/<REPO>
-# git push -f git@github.com:jhair2303/weather-project.git main:gh-pages
+# git push -f git@github.com:jhair2303/weather_project.git master:gh-pages
